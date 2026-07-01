@@ -1,6 +1,8 @@
 # gum.fit
 Maximum-likelihood Fitting of the Gumbel Distribution Use gum.fit (ismev) With (In) R Software
 
+https://www.youtube.com/watch?v=dT2XphzQMoA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
